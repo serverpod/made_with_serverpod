@@ -50,9 +50,9 @@ class MadeWithServerpod extends StatelessWidget {
                   onPressed: () {
                     launchUrl(url!);
                   },
-                  child: Row(
+                  child: const Row(
                     crossAxisAlignment: CrossAxisAlignment.center,
-                    children: const [
+                    children: [
                       Text('View code'),
                       SizedBox(width: 4),
                       Icon(
