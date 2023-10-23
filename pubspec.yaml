@@ -1,6 +1,6 @@
 name: made_with_serverpod
 description: Widget showing a made with Serverpod banner with an optional link to source code.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/serverpod/made_with_serverpod
 
 environment:
