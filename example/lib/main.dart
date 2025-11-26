@@ -29,23 +29,10 @@ class DemoPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: MadeWithServerpod(
-        // child: Center(
-        child: Row(
-          mainAxisSize: MainAxisSize.max,
-          children: [
-            Expanded(
-              child: AnimatedServerpodLogo(
-                brightness: Brightness.light,
-                animate: true,
-              ),
-            ),
-            Expanded(
-              child: ServerpodProgressIndicator(),
-            ),
-          ],
+        child: Center(
+          child: ServerpodProgressIndicator(),
         ),
       ),
-      // ),
     );
   }
 }

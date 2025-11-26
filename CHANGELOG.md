@@ -1,12 +1,16 @@
+## 2.0.0
+
+- Removes animated logo.
+
 ## 1.2.0
 
-* Adds animated progress indicator.
+- Adds animated progress indicator.
 
 ## 1.1.0
 
-* Adds example.
-* Adds support for an animated Serverpod logo.
+- Adds example.
+- Adds support for an animated Serverpod logo.
 
 ## 1.0.0
 
-* Initial release.
+- Initial release.
