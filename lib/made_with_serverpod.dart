@@ -1,5 +1,5 @@
-library made_with_serverpod;
+/// Simple banner with the Serverpod logo. Used by the Serverpod examples.
+library;
 
-export 'src/animated_logo.dart';
 export 'src/made_with_serverpod.dart';
 export 'src/progress_indicator.dart';
